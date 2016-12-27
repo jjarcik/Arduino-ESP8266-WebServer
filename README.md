@@ -32,4 +32,4 @@
 
 AMS1117
 
-<img src="https://raw.githubusercontent.com/jjarcik/Arduino-ESP8266-WebServer/master/SKU246891a.jpg" />
+<img src="https://raw.githubusercontent.com/jjarcik/Arduino-ESP8266-WebServer/master/SKU246891a.jpg" width="450"/>
